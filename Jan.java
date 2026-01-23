@@ -1,5 +1,5 @@
 import java.io.*;
-class jan
+class Jan
 {
 
 	public static void main(String[] args)
@@ -492,3 +492,4 @@ class jan
 		System.out.println("ありがとうございました！また使ってね！");
 	}
 }
+
