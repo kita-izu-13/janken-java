@@ -68,5 +68,4 @@
 　処理の流れや工夫点を他者に説明しました。
 
  【　イメージ図】<br>
- !["jankengame"]("images")
-images
+ !["jankengame"](images)
