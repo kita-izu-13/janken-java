@@ -3,7 +3,9 @@
 Javaの基本的な書き方や処理の流れを理解するために作成した、<br>
 コンソール上で動作するじゃんけんゲームです。
 
-!["jankengame"](images) 
+ !["jankengame"](images/game1.png) 
+!["jankengame"](images/game2.png) 
+!["jankengame"](images/fin.png)
 
 【　概要　】<br>
 ・Java学習開始約３週間後に作成したプログラムです。<br>
@@ -70,8 +72,3 @@ Javaの基本的な書き方や処理の流れを理解するために作成し�
 【　その他　】<br>
 ・作成後、内容を整理してプレゼンテーションを行い、<br>
 　処理の流れや工夫点を他者に説明しました。
-
- 【　イメージ図　】<br>
-!["jankengame"](images/game1.png) 
-!["jankengame"](images/game2.png) 
-!["jankengame"](images/fin.png)
