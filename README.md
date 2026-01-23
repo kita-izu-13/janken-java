@@ -67,5 +67,6 @@
 ・作成後、内容を整理してプレゼンテーションを行い、<br>
 　処理の流れや工夫点を他者に説明しました。
 
- 【　イメージ図】<br>
+ 【　イメージ図　】<br>
+ !["jankengame"](images/fin.png)
  !["jankengame"](images)
