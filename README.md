@@ -27,7 +27,7 @@
 ・言語：Java<br>
 ・実行環境：コ ンドプロンプト<br>
 ・使用技術：<br>
-  BufferedReaderによるキーボード入力<br>
+　BufferedReaderによるキーボード入力<br>
   Math.randomによる乱数生成<br>
   if文<br>
   for文<br>
