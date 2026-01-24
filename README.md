@@ -35,7 +35,7 @@ Javaの基本学習として作成した、<br>
 　for文<br>
 　配列<br>
 
- 【　イメージ図　】<br>
+ 【　実行イメージ　】<br>
  !["jankengame"](images/game1.png) 
 !["jankengame"](images/game2.png) 
 !["jankengame"](images/fin.png)
