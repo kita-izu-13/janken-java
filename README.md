@@ -95,7 +95,7 @@ Javaの基本学習として作成した、<br>
 
 ## 制作物<br>
 　【 コマンドプロンプトで実行 】<br>
-・じゃんけんゲーム：<br>
+・じゃんけんゲーム：[janken-java](https://github.com/kita-izu-13/janken-java)<br>
 
 　【 Webアプリで実行 】<br>
 ・じゃんけんゲーム：<br>
